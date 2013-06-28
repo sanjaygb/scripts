@@ -1,4 +1,0 @@
-sbgwork
-=======
-
-Work related stuff
